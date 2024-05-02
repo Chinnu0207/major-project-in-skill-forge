@@ -1,0 +1,21 @@
+/* public/style.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  form {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+  }
+  
